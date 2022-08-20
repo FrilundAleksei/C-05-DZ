@@ -20,7 +20,7 @@ for (int i = 0; i < NewArray.Length; i++)
         count+=1;
     }
 }
-   Console.WriteLine($"В массиве всего {NewArray.Length} чисел, {count} из них чётные.");
+   WriteLine($"В массиве всего {NewArray.Length} чисел, {count} из них чётные.");
 
 
 

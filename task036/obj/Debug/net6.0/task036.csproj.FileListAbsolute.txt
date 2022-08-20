@@ -1,0 +1,15 @@
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\bin\Debug\net6.0\task036.exe
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\bin\Debug\net6.0\task036.deps.json
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\bin\Debug\net6.0\task036.runtimeconfig.json
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\bin\Debug\net6.0\task036.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\bin\Debug\net6.0\task036.pdb
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\task036.csproj.AssemblyReference.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\task036.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\task036.AssemblyInfoInputs.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\task036.AssemblyInfo.cs
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\task036.csproj.CoreCompileInputs.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\task036.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\refint\task036.dll
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\task036.pdb
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\task036.genruntimeconfig.cache
+F:\GeekBrains\Работа в Git\Знакомство с языками программирования\C#05-DZ\task036\obj\Debug\net6.0\ref\task036.dll
