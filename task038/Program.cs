@@ -7,9 +7,10 @@ Clear();
 
 WriteLine("Введите размер массива:");
 int n = Convert.ToInt32(Console.ReadLine());
-int [] NewArray = GetArrey(n);
-PrintArray(NewArray);
-WriteLine();
+int [] NewArray = GetArray(n);
+//PrintArray(NewArray);
+WriteLine($"Заданный массив [{String.Join(", ",NewArray)}]");
+
 
 int min = 0;
 int max = 0;
@@ -19,11 +20,11 @@ foreach (int i in NewArray)
     if (max < i) max = i;
 }
 
-WriteLine($"\nРазница между между максимальным ({max}) и минимальным({min}) элементами массива: {max-min}");
+WriteLine($"Разница между между максимальным ({max}) и минимальным({min}) элементами массива: {max-min}");
+WriteLine();
 
 
-
-int [] GetArrey (int n)
+int [] GetArray (int n)
 {
 int [] array = new int[n];
 for (int i = 0;  i<n; i++)
@@ -33,12 +34,12 @@ for (int i = 0;  i<n; i++)
        return array;
        }
 
-void PrintArray(int[] Mass)
-{
-    Write("[");
-    for (int i = 0;  i<Mass.Length; i++)
-    {
-      Write (Mass[i] + ", ");
-    }
-    Write("]");
-}
+//void PrintArray(int[] Mass)
+//{
+//    Write("[");
+//    for (int i = 0;  i<Mass.Length; i++)
+//    {
+//      Write (Mass[i] + ", ");
+//    }
+//    Write("]");
+//}
